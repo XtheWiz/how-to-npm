@@ -1,0 +1,19 @@
+{
+  "name": "@xthewiz/tutorials",
+  "version": "1.0.0",
+  "description": "This file is created by following how-to-npm lesson.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XtheWiz/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XtheWiz/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/XtheWiz/how-to-npm#readme"
+}
